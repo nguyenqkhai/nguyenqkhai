@@ -81,10 +81,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-> 👉 Thay `YOUR_USERNAME` bằng username GitHub của bạn
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=tokyonight)
 
 ---
 
