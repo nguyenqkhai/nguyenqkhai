@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenquangkhai&v=2&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenquangkhai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
