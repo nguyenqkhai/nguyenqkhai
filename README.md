@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quang Khải</h1>
 <h3 align="center">Backend Intern | Software Engineering Student</h3>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB0bGUwNzQ2YmltMWl3ZHhwY2podHN0YmxteGZsMTVieTF5ajVzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="800" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stacks that I am currently capable of 🛠️
@@ -64,9 +60,7 @@
 
 ## 📫 Contact
 - Email: nguyenkhai7803@gmail.com
-- GitHub: https://github.com/nguyenqkhai
-- LinkedIn: https://linkedin.com/in/nguyenqkhai
-
+- Facebook: https://www.facebook.com/quangggkhaiii
 ---
 
 ⭐ Thanks for visiting my profile!
