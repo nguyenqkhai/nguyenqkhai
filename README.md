@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quang Khải</h1>
 <h3 align="center">Backend Intern | Software Engineering Student</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenqkhai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenqkhai" />
+</p>
+
 ---
 
-## 🛠️ Tech Stacks that I am currently capable of 🛠️
+## 🧑‍💻 About Me
+- 🎓 Software Engineering Student  
+- 💼 Target position: **Backend Intern / Software Intern**  
+- 🔍 Interested in **Backend Systems, APIs, Databases, Cloud**  
+- ⚡ Comfortable working with **Node.js, ASP.NET Core, Python**  
+- 🚀 Always learning & building real projects  
+
+---
+
+## 🛠️ Tech Stacks I Can Work With
 
 ### 🔧 Backend
 <p>
@@ -36,7 +49,7 @@
 
 ---
 
-### ☁️ Cloud Services
+### ☁️ Cloud & Deployment
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -45,7 +58,7 @@
 
 ---
 
-## 🧰 Libraries & Tools I Use 🧰
+## 🧰 Tools & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,figma,npm" />
 </p>
@@ -54,14 +67,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: nguyenkhai7803@gmail.com
-- Facebook: https://www.facebook.com/quangggkhaiii
+## 📫 Contact Me
+- 📧 Email: **nguyenkhai7803@gmail.com**
+- 🌐 Facebook: [Quang Khải](https://www.facebook.com/quangggkhaiii)
+
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my GitHub profile!**
