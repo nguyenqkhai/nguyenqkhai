@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quang Khải</h1>
-<h3 align="center">Backend Intern | Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenqkhai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenqkhai" />
@@ -67,10 +67,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
