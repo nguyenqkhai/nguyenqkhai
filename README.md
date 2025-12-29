@@ -67,8 +67,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=dark" />
+
 </p>
 
 ---
