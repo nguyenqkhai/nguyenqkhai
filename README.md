@@ -67,10 +67,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenqkhai&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenqkhai&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
